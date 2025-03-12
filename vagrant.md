@@ -1,7 +1,7 @@
 # Configuración de Infraestructura con Vagrant
 
 ## Descripción
- levantar una infraestructura de máquinas virtuales Debian sin entorno gráfico usando **Vagrant** y **VirtualBox**. 
+ Levantar una infraestructura de máquinas virtuales Debian sin entorno gráfico usando **Vagrant** y **VirtualBox**. 
  Se crearán 5 máquinas virtuales con una configuración optimizada para minimizar el consumo de recursos.
 
 ##  Vagrantfile
